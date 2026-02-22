@@ -1,0 +1,13 @@
+gradio>=4.0
+torch
+torchaudio
+transformers
+accelerate
+bitsandbytes
+numpy
+pandas
+scikit-learn
+matplotlib
+librosa
+requests
+python-dotenv

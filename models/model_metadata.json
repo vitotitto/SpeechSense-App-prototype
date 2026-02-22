@@ -1,0 +1,14 @@
+{
+  "n_speakers_trained": 188,
+  "n_clips_used": 2571,
+  "n_clips_excluded_after_symptoms": 272,
+  "medgemma_clip_dim": 2560,
+  "chunk_feature_dim": 2560,
+  "speaker_feature_dim": 5120,
+  "classes": [0, 1],
+  "aggregation": "[clip_mean, clip_std]",
+  "modalities": ["text_plus_acoustic_narrative"],
+  "filter": "no_after_symptoms",
+  "cv_auc": 0.9112,
+  "note": "Pre-symptoms only model. After-symptoms clips excluded. HEAR dropped - overfits to speaker voice."
+}
