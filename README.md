@@ -1,6 +1,6 @@
 # Conversation-Based Cognitive Decline Risk Triage Using HAI-DEF Models
 
-![Application screenshot](../app_screenshot.png)
+![Application screenshot](app_screenshot.png)
 
 ## 1. Problem and Clinical Need
 
@@ -176,3 +176,4 @@ The system is designed as a longitudinal monitoring tool. Each conversation prod
 8. **Google Health AI Developer Foundations.** MedASR documentation.
 
    https://developers.google.com/health-ai-developer-foundations/medasr
+
