@@ -1,6 +1,6 @@
 # Conversation-Based Cognitive Decline Risk Triage Using HAI-DEF Models
 
-![Application screenshot](../plots/app_screenshot.png)
+![Application screenshot](app_screenshot.png)
 
 ## 1. Problem and Clinical Need
 
